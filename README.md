@@ -1,1 +1,2 @@
-# Bank-Loan-Analysis-
+# Bank-Loan-Data-Analysis
+This project aims to analyze bank loan data using Power BI, deriving insights such as distinguishing between good and bad loans, total funds, total interest received, and more through various visualizations. The project leverages Power BI's capabilities to visualize and interpret complex loan data, providing valuable insights for decision-making within the banking sector.
